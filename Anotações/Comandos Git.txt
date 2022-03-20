@@ -34,22 +34,11 @@ git rm nomedoarquivo.txt = remove arquivo
 
 git rm -r pasta = remove pasta 
 
-
 git log = mostra histórico
 
 git pull = atualiza os arquivos
 
 git push = envia arquivos para diretório remoto 
-
-
-
-
-
-
-
-
-
-
 
 git help = ajuda 
 git help add
