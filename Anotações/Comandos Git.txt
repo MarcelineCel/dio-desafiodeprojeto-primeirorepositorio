@@ -2,3 +2,57 @@ git clone (link colado) = clona o repositório do github
 
 cd (nome da pasta) = abre a pasta escolhida
 
+ls = lista tudo que tiver na pasta
+
+git status = mostra o status do repositorio no git
+
+git add . = atualiza alterações do repositório
+
+cd .. = sobe um nível da pasta 
+
+git commmit -m (insere msg) = comita o arquivo
+
+git push origin main = envia todos os commits pra nuvem 
+
+git config --global user.name "MarcelineCel" = Definir usuário 
+
+git config --global user.email marceline_marceline@hotmail.com
+
+git config --list = lista configurações
+
+git init = criar recurso 
+
+git add meu_arquivo.txt = adiciona um arquivo específico 
+
+git add meu_diretorio = adiciona um diretório específico
+
+git add -f arquivo_no_gitignore.txt = Adciona arquivo do .gitignore 
+
+git commit meu_arquivo.txt = comita um arquivo
+
+git rm nomedoarquivo.txt = remove arquivo
+
+git rm -r pasta = remove pasta 
+
+
+git log = mostra histórico
+
+git pull = atualiza os arquivos
+
+git push = envia arquivos para diretório remoto 
+
+
+
+
+
+
+
+
+
+
+
+git help = ajuda 
+git help add
+git help commit
+git help <qualquer_comando_git>
+
