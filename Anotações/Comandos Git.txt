@@ -1,0 +1,4 @@
+git clone (link colado) = clona o repositório do github
+
+cd (nome da pasta) = abre a pasta escolhida
+
